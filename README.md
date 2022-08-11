@@ -1,0 +1,2 @@
+# exercicio
+ Exercicio git versionado
